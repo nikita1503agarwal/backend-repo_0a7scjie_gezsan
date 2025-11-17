@@ -74,7 +74,7 @@ NIKE_SEED = [
         "images": [
             "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1600&q=80&auto=format&fit=crop"
         ],
-        "colors": ["Black", "White", "Volt"],
+        "colors": ["#111827", "#ffffff", "#7c3aed"],
         "rating": {"average": 4.7, "count": 324}
     },
     {
@@ -87,7 +87,7 @@ NIKE_SEED = [
         "images": [
             "https://images.unsplash.com/photo-1543508282-6319a3e2621f?w=1600&q=80&auto=format&fit=crop"
         ],
-        "colors": ["White", "Black"],
+        "colors": ["#ffffff", "#0f172a"],
         "rating": {"average": 4.8, "count": 512}
     },
     {
@@ -100,8 +100,60 @@ NIKE_SEED = [
         "images": [
             "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=1600&q=80&auto=format&fit=crop"
         ],
-        "colors": ["Blue", "Grey"],
+        "colors": ["#2563eb", "#64748b"],
         "rating": {"average": 4.6, "count": 210}
+    },
+    {
+        "title": "Air Jordan 1 Retro",
+        "description": "Timeless hoops heritage with premium leather and bold color blocking.",
+        "price": 179.99,
+        "category": "Basketball",
+        "brand": "Nike",
+        "in_stock": True,
+        "images": [
+            "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=1600&q=80&auto=format&fit=crop"
+        ],
+        "colors": ["#ef4444", "#111827"],
+        "rating": {"average": 4.9, "count": 742}
+    },
+    {
+        "title": "Nike Dunk Low",
+        "description": "Laid‑back legend with easy styling and everyday comfort.",
+        "price": 119.99,
+        "category": "Lifestyle",
+        "brand": "Nike",
+        "in_stock": True,
+        "images": [
+            "https://images.unsplash.com/photo-1605348532760-6753d2c43329?w=1600&q=80&auto=format&fit=crop"
+        ],
+        "colors": ["#22c55e", "#0ea5e9"],
+        "rating": {"average": 4.5, "count": 398}
+    },
+    {
+        "title": "Nike VaporMax",
+        "description": "Bouncy, futuristic cushioning with a breathable knit upper.",
+        "price": 199.99,
+        "category": "Running",
+        "brand": "Nike",
+        "in_stock": True,
+        "images": [
+            "https://images.unsplash.com/photo-1519744346363-66f450230302?w=1600&q=80&auto=format&fit=crop"
+        ],
+        "colors": ["#06b6d4", "#a855f7"],
+        "rating": {"average": 4.7, "count": 287}
+    },
+    {
+        "title": "Nike React Infinity",
+        "description": "Supportive ride designed to help reduce injury and keep you running.",
+        "price": 159.99,
+        "category": "Running",
+        "brand": "Nike",
+        "in_stock": True,
+        "images": [
+            "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1600&q=80&auto=format&fit=crop"
+        ],
+        "colors": ["#f97316", "#0ea5e9"],
+        "rating": {"average": 4.4, "count": 156}
     }
 ]
 
